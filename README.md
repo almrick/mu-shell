@@ -5,6 +5,7 @@ A very simple shell written in C++
 The code is not the best a I wrote it in around 15-20 mins :^)
 
 # TODO
+* Environment variables
 * Custom PATH
 * Custom shell prompt
 * Error handling
